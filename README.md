@@ -19,7 +19,7 @@ visual item tallying network.
 
 ## Code
 
-Source code and more details are available [here](https://isrc.iscas.ac.cn/gitlab/research/acm-mm-2019-).
+Source code and more details are available [here](https://isrc.iscas.ac.cn/gitlab/research/acm-mm-2019-ACO).
 
 
 ## Results
