@@ -33,6 +33,14 @@ Source code and more details are available [here](https://isrc.iscas.ac.cn/gitla
 |     hard | Syn+Render (DPNet) | 70.76% | 97.04% | 0.53 | 0.03 | 97.76% | 74.95% |
 | averaged | Syn+Render (DPNet) | 80.51% | 97.33% | 0.34 | 0.03 | 97.91% | 77.04% |
 
+## Model ZOO
+
+|    level |      method        |   cAcc |  model |
+|     ---: |               ---: |   ---: |   ---: |
+| averaged | Render (DPNet) | 77.91% | [download](https://github.com/lufficc/DPNet/releases/download/0.1/render_finetune.pth) |
+| averaged | Syn+Render (DPNet) | 80.51% | [download](https://github.com/lufficc/DPNet/releases/download/0.1/syn_render_finetune.pth) |
+
+
 ## Citations
 Please cite this project in your publications if it helps your research. 
 ```
